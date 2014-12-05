@@ -1,0 +1,14 @@
+The jar files are removed to reduce the archive size. You can find the required libraries on Jersey project home.
+
+activation-1.1.jar
+asm-3.1.jar
+jaxb-api-2.1.jar
+jaxb-impl-2.1.jar
+jersey-client-1.0.3.jar
+jersey-core-1.0.3.jar
+jersey-json-1.0.3.jar
+jersey-server-1.0.3.jar
+jersey-spring-1.0.3.jar
+jsr311-api-1.0.jar
+stax-api-1.0-2.jar
+wstx-asl-3.2.1.jar
